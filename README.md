@@ -1,6 +1,6 @@
 # Week 2 Assignment for Enuygun PHP Bootcamp
 
-## 1. Araştırma Konusu
+## 1. Araştırma Konusu
 
 - PascalCase, camelCase, Snake_Case gibi isimlendirme şekilleri vardır. Genellikle camelCase ve PascalCase kullanılır.
   - camelCase: Bu isimlendirme şeklinde ilk kelimenin ilk harfi küçük, sonrasında gelen her kelime birleşik ve ilk harfi büyük olarak yazılır. (getType, setType)
